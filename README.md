@@ -1,0 +1,1 @@
+Very simple search in terminal using Google's Programmable Search Engine (CSE) API.
